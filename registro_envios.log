@@ -1,0 +1,12 @@
+2025-05-08 16:22:16.663889 | carlos@example.com | 📩 Información del evento 2 | ERROR: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 71dfb90a1353d-52c53865885sm242928e0c.32 - gsmtp')
+2025-05-08 16:22:17.906282 | ana@example.com | 📩 Información del evento 2 | ERROR: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ada2fe7eead31-4dea85d67d3sm275556137.13 - gsmtp')
+2025-05-13 18:18:56.546635 | ejemplo3@correo.com | ✅ Confirmación de inscripción — Evento 2 | ERROR: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor a1e0cc1a2514c-879f6297d9esm7620807241.28 - gsmtp')
+2025-05-13 18:18:57.324505 | zuleta.miguel@uces.edu.co | ✅ Confirmación de inscripción — Evento 2 | ERROR: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 71dfb90a1353d-52c5375aff7sm8481168e0c.24 - gsmtp')
+2025-05-13 18:21:50.741341 | ejemplo3@correo.com | ✅ Confirmación de inscripción — Evento 2 | ENVIADO
+2025-05-13 18:21:52.172394 | zuleta.miguel@uces.edu.co | ✅ Confirmación de inscripción — Evento 2 | ENVIADO
+2025-05-14 11:56:11.899132 | ejemplo3@correo.com | ✅ Confirmación de inscripción — Evento 2 | ENVIADO
+2025-05-14 11:56:13.406950 | zuleta.miguel@uces.edu.co | ✅ Confirmación de inscripción — Evento 2 | ENVIADO
+2025-05-14 11:57:45.869643 | ejemplo5@correo.com | ✅ Confirmación de inscripción — Evento 4 | ENVIADO
+2025-05-14 13:55:05.922288 | ejemplo5@correo.com | ✅ Confirmación de inscripción — Evento 4 | ENVIADO
+2025-05-14 13:57:12.703986 | ejemplo5@correo.com | 📄 Información del evento 5 | ENVIADO
+2025-05-14 13:57:13.976946 | ejemplo5@correo.com | 📄 Información del evento 5 | ENVIADO
